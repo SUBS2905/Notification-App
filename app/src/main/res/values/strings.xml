@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notification App</string>
+    <string name="you_tapped_on_the_notification">You tapped on the notification!</string>
+    <string name="create_big_text_notification">Create Big Text Notification</string>
+    <string name="create_inbox_style_notification">Create Inbox style Notification</string>
+    <string name="create_big_image_notification">Create Big Image Notification</string>
+    <string name="close_notification">Close Notification</string>
+</resources>
